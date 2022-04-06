@@ -1,0 +1,1 @@
+web: bash -c "json-server db.json"
