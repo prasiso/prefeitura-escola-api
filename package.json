@@ -1,0 +1,23 @@
+{
+  "name": "prefeitura-escola-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasiso/prefeitura-escola-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasiso/prefeitura-escola-api/issues"
+  },
+  "homepage": "https://github.com/prasiso/prefeitura-escola-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
