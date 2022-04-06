@@ -1,1 +1,1 @@
-web: bash -c "json-server db.json"
+web: bash -c "npm i && json-server db.json"
